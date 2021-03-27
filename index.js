@@ -21,5 +21,6 @@ function iLoveTheBeatles(num){
   var iLoveBeatles = []
   do{
     iLoveBeatles[n] = "I lovethe Beatles!"
-  }while(n < 15)
+    num += 1
+  }while(num < 15)
 }

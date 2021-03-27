@@ -25,5 +25,6 @@ function iLoveTheBeatles(num){
     iLoveBeatles[i] = "I love the Beatles!"
     num += 1
     i += 1
+    console.log(iLoveBeatles)
   }while(num < 15)
 }

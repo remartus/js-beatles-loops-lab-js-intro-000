@@ -19,12 +19,11 @@ function johnLennonFacts(lennonFacts){
 
 function iLoveTheBeatles(num){
   var iLoveBeatles = []
-  console.log(iLoveBeatles)
   var i = 0
   do{
     iLoveBeatles[i] = "I love the Beatles!"
     num += 1
     i += 1
-    console.log(iLoveBeatles)
   }while(num < 15)
+  return iLoveBeatles
 }

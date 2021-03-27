@@ -20,5 +20,5 @@ function johnLennonFacts(lennonFacts){
 function iLoveTheBeatles(num){
   do{
 
-  }while()
+  }while(n < 15)
 }

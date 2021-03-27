@@ -11,6 +11,7 @@ function johnLennonFacts(lennonFacts){
   var i = 0
   while(i < lennonFacts.length){
     excitedFacts[i] = `${lennonFacts[i]}!!!`
+    i += 1
   }
   return excitedFacts
 }
